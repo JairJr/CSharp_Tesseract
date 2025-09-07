@@ -78,15 +78,4 @@ Resposta:
 }
 ```
 
-## Possíveis Melhorias Futuras
-
-- Implementar autenticação e autorização
-- Adicionar suporte para mais tipos de documentos
-- Melhorar a precisão da classificação com mais dados de treinamento
-- Implementar armazenamento em banco de dados para histórico de análises
-- Adicionar suporte para processamento em lote de múltiplos documentos
-- Implementar detecção de fraudes em documentos
-
-## Licença
-
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
