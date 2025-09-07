@@ -1,0 +1,16 @@
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\bin\Debug\net8.0\x86\leptonica-1.82.0.dll
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\bin\Debug\net8.0\x86\tesseract50.dll
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\bin\Debug\net8.0\x64\leptonica-1.82.0.dll
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\bin\Debug\net8.0\x64\tesseract50.dll
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\bin\Debug\net8.0\DocumentAnalyzer.Core.deps.json
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\bin\Debug\net8.0\DocumentAnalyzer.Core.dll
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\bin\Debug\net8.0\DocumentAnalyzer.Core.pdb
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\obj\Debug\net8.0\DocumentAnalyzer.Core.csproj.AssemblyReference.cache
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\obj\Debug\net8.0\DocumentAnalyzer.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\obj\Debug\net8.0\DocumentAnalyzer.Core.AssemblyInfoInputs.cache
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\obj\Debug\net8.0\DocumentAnalyzer.Core.AssemblyInfo.cs
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\obj\Debug\net8.0\DocumentAnalyzer.Core.csproj.CoreCompileInputs.cache
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\obj\Debug\net8.0\DocumentAnalyzer.Core.dll
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\obj\Debug\net8.0\refint\DocumentAnalyzer.Core.dll
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\obj\Debug\net8.0\DocumentAnalyzer.Core.pdb
+E:\Dev\trae\DocumentAnalyzer\DocumentAnalyzer.Core\obj\Debug\net8.0\ref\DocumentAnalyzer.Core.dll
